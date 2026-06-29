@@ -1,0 +1,10 @@
+Git 学习笔记
+=============
+
+2026-06-29
+
+今天学习了 Git 基本操作：
+- git init     初始化仓库
+- git add .    暂存所有文件
+- git commit   提交记录
+- git push     推送到 GitHub
